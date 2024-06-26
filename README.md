@@ -1,3 +1,26 @@
+## radar_msgs (jazzy) - 0.2.2-5
+
+The packages in the `radar_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy radar_msgs --override-release-repository-push-url git@github.com:revyos-ros/radar_msgs-release` on `Wed, 26 Jun 2024 11:33:08 -0000`
+
+The `radar_msgs` package was released.
+
+Version of package(s) in repository `radar_msgs`:
+
+- upstream repository: https://github.com/ros-perception/radar_msgs.git
+- release repository: https://github.com/revyos-ros/radar_msgs-release.git
+- rosdistro version: `0.2.2-4`
+- old version: `0.2.2-4`
+- new version: `0.2.2-5`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## radar_msgs (rolling) - 0.2.2-1
 
 The packages in the `radar_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release radar_msgs --rosdistro rolling --track rolling` on `Thu, 29 Sep 2022 18:22:49 -0000`
